@@ -1,0 +1,1 @@
+Đây là file info.txt trong nhánh add-info
