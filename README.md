@@ -4,3 +4,4 @@ Giới thiệu: Tôi là Lương Bảo Huy, MSSV 220406.
 Nội dung chỉnh sửa từ main
 
 Nội dung thêm từ conflict-demo
+Thêm ghi chú buổi 2
